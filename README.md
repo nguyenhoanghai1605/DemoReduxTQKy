@@ -1,15 +1,15 @@
 ## DemoRedux
 
-*JavaScript
-*54.5%
+* JavaScript
+* 54.5%
  
-*Objective-C
-*25.2%
+* Objective-C
+* 25.2%
  
-*Starlark
-*10.8%
+* Starlark
+* 10.8%
  
-*Java
-*9.5%
+* Java
+* 9.5%
 
 
